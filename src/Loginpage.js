@@ -25,7 +25,7 @@ function Loginpage(){
 
     return(
       
-      <TableContainer spacing={3} component={Paper} sx={{background:'#301b52' ,color:'white'}}>
+      <TableContainer component={Paper} sx={{background:'#301b52' ,color:'white'}}>
       <Table aria-label="simple table" sx={{width:'50%',alignContent:'space-around',justifyContent:'center'}}>
         <TableHead>
         
